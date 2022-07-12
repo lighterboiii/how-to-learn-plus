@@ -15,3 +15,5 @@
 
 
 Во втором брифе первого спринта я научился работать с `iframe`, `API Youtube`, встраивать на страницу медиафайлы с помощью тегов `<video>` и `<audio>`, были изучены трансформации, тени, градиенты, [кейфреймы](blocks/rotation/rotation.css). В заключении проекта познакомился с основами работы в Bash и Git, создан [профиль](https://github.com/lighterboiii) в GitHub. 
+___
+[Ссылка на github pages](https://lighterboiii.github.io/how-to-learn-plus/)

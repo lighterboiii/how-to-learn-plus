@@ -1,9 +1,15 @@
 .cards {
     margin: 0 auto;
-    padding: 0;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    width: 920px;
+    align-items: flex-start;
+    column-gap: 100px;
+    max-width: 920px;
     list-style: none;
+  }
+  @media screen and (max-width: 1200px) {
+    .cards {
+      column-gap: 40px;
+    }
   }

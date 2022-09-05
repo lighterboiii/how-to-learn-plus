@@ -4,3 +4,9 @@
     display: flex;
     justify-content: space-between;
   }
+
+@media screen and (max-width: 1023px) {
+  .two-columns {
+    column-gap: 20px;
+  }
+}
